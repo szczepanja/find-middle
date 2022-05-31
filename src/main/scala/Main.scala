@@ -13,7 +13,6 @@ object Main {
     }
 
     loop(xs, xs, 0)
-
   }
 
 }
